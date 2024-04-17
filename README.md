@@ -1,2 +1,2 @@
 # Python_Projects
-Analysis of IMDB dataset using Pyhton and Pandas 
+Analysis of the IMDB dataset using Python and Pandas 
